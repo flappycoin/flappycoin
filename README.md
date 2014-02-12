@@ -1,7 +1,7 @@
-FlappyCoin (Flap)
+FlappyCoin (FLAP)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/FlappyCoin.png?branch=master)](https://travis-ci.org/RazorLove/FlappyCoin)
+![Build Status](https://github-camo.global.ssl.fastly.net/6a0b3b8bb2e02d358a3b89d90f3c313dace27687/687474703a2f2f692e696d6775722e636f6d2f594334734231412e706e67)
 
 
-Scrypt Hashcash PoW Template
+FlappyCoin: The new scrypt based crypto currency!
