@@ -1,7 +1,7 @@
-FooCoin (FOO)
+FlappyCoin (Flap)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
+[![Build Status](https://travis-ci.org/RazorLove/FlappyCoin.png?branch=master)](https://travis-ci.org/RazorLove/FlappyCoin)
 
 
 Scrypt Hashcash PoW Template
